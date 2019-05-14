@@ -1,0 +1,26 @@
+Bankenregulierung könnte Kredite verteuern
+Die schärfere Regulierung gehört spätestens seit der Finanzkrise zu den immer wieder erhobenen Forderungen. Doch das könnte besonders in Deutschland Kredite verteuern.
+Banken gehören zu den am stärksten regulierten Branchen, sieht man einmal von Spezialfällen ab, wie etwa den Herstellern von Gefahrgütern. Wobei es sicher auch Stimmen gibt, die Bankprodukte als fast ebenso gefährlich einstufen.
+
+In jedem Fall ist nachvollziehbar, dass um die Intensität der Regulierung gerungen und gestritten wird. So weit es die Banken betrifft, ist hier die sogenannte „Basel-IV-Regulierung“ ausschlaggebend, die ihren Namen vom Basler Ausschuss für Bankenaufsicht hat, der 1974 von Zentralbanken und Bankaufsichtsbehörden der G10-Staaten gegründet wurde. Diese reagierten damals auf die Insolvenz der Herstatt-Bank und weiterer Banken gegründet. Herstatt hatte sich damals an hochriskanten Devisenspekulationen verhoben. Das nun diskutierte „Basel IV“ wurde als Reaktion auf die Finanzkrise entworfen, im Englischen nur noch als „Great Financial Crisis“ oder kurz „GFC“ bezeichnet. Die neuen Baseler Vorschriften sollen ab dem 2022 angewendet werden.
+Große deutsche Banken betroffen
+
+Wie jede Regulierung ist auch diese nicht kostenlos zu haben und so hat der Bankenverband am Montag eine Auswirkungsstudie vorgelegt. Demnach werden europäische Banken durch das Reformpaket stärker belastet als bislang angenommen. Primär verantwortlich dafür sei die Festschreibung einer Mindestkapitalausstattung, der sogenannte Output-Floor. Dies betrifft alle Banken, die interne Modelle benutzen, um das erforderliche Mindestkapital für eine Kreditvergabe zu berechnen. Das sind in der Regel größere Banken, in Deutschland mit einer Bilanzsumme von etwa mehr als 30 Milliarden Euro. 2017 hatten die 29 größten deutschen Banken ein Bilanzsumme, die darüber lag. Dazu gehörten etwa auch die BHW Bausparkasse oder die Hamburger Sparkasse.
+
+Die betroffenen Banken müssen künftig mindestens 72,5 Prozent der mit Hilfe des Kreditrisikostandardansatz KSA ermittelten risikogewichteten Aktiva ansetzen. Diesen Ansatz nutzen in der Regel kleinere Banken. Der KSA arbeite mit sehr konservativ angesetzten, stark pauschalisierten Risikogewichten. Das führe dazu, dass interne Risikoberechnungen, die die individuellen Risiken von Krediten viel genauer abbildeten, dass die risikogewichteten Aktiva nach internen Ansätzen etwa bei 40 Prozent des KSA lägen.
+
+„In allen von uns untersuchten Kreditportfolios führt der Output-Floor zu erheblich höheren Kapitalanforderungen. Dies erschwert und verteuert die Kreditvergabe im Bereich der Immobilienfinanzierung ebenso wie bei kleinen und mittleren Unternehmen“, sagt Christian Ossig, Hauptgeschäftsführer des Bankenverbandes.
+Ein Viertel mehr Mindestkapital
+
+Untersucht wurden vom Bankenverband Portfolios zur Immobilienfinanzierung, zur Finanzierung von kleinen und mittleren Unternehmen, zur Projektfinanzierung z.B. im Bereich erneuerbarer Energien und zur Finanzierung von Gewerbeimmobilien.
+
+Für Europa stiegen die Mindestkapitalanforderungen um 8, für Deutschland sogar um 17,8 Prozent. Gemeinsam mit anderen Regulierungsanforderungen ergebe sich für europäische Banken höhere Mindestkapitalanforderungen von 19,1 und für deutsche Banken von 23,6 Prozent. Damit werde das Ziel einer Resolution des Europäischen Rates von 2016 klar verfehlt. Nach dieser sollte es nur eine insignifikante Erhöhung geben.
+
+Besonders hart treffe es das risikoarme deutsche Baufinanzierungsgeschäft. Dass sich das durchschnittliche Risikogewicht mehr als verdopple, sei nicht nachvollziehbar und müsse unbedingt vermieden werden. Die niedrigen Risikoschätzungen stimmten mit den tatsächlichen Verlusterfahrungen überein, die Immobilienmärkte in Deutschland hochentwickelt und stabil und die Datenlage ausgezeichnet.
+Bestrafung geringerer Kreditrisiken
+
+Steigende Anforderungen an das Risikokapital können sich unmittelbar auf deutsche Unternehmen und Verbraucher auswirken. Banken seien sogar verpflichtet, die Höhe der Eigenmittelanforderung bei den Angebotskonditionen zu berücksichtigen, so der Bankenverband. Im Klartext würde dies höhere Kreditzinsen und in manchen Fällen sogar bedeuten, dass kein Kredit mehr vergeben wird.
+
+Immerhin sind die deutschen Banken mit diesem Problem nicht alleine. Laut dem Bankenverband treten diese Effekte in allen Ländern des nördlichen Europa deutlich ein: in Schweden, Dänemark, den Niederlanden, Belgien, Finnland und Frankreich. Die Pauschalisierung, die wohl aus einem internationalen Durchschnitt entsteht, trifft logischerweise Banken in just den Ländern stärker, in denen die Risiken unterdurchschnittlich hoch sind.
+In der europäischen Umsetzung müsse die Wirkung des Output-Floors daher deutlich abgemildert werden, fordert der Bankenverband. Ansonsten seien negative Folgen für die Kreditvergabe unausweichlich. Bestimmte risikoarme Portfolios sollten von der Anwendung ausgenommen oder der Output-Floor „auf vernünftige Weise“ angewendet werden.
+An der Untersuchung teilgenommen hatten sechs der größten privaten Banken in  Deutschland, und drei kleinere Institute. Aufgrund der Größe, Geschäftsmodelle und geographischen Ausrichtung repräsentierten diese ein breites Spektrum von Firmen- und Privatkundenbeziehungen in Deutschland.
